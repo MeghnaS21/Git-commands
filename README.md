@@ -24,3 +24,15 @@
     Create a local repository:
    ## git clone 
     Make a local copy of the server repository.
+    
+# Local changes
+
+    Git add
+    Add a file to staging (Index) area:
+   ## git add Filename
+    Add all files of a repo to staging (Index) area:
+   ## git add*
+    Git commit
+    Record or snapshots the file permanently in the version history with a message.
+   ## git commit -m " Commit Message"
+
