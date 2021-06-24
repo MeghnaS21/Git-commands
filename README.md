@@ -6,7 +6,7 @@
    ## Set the name:
     $ git config --global user.name "User name"
    ## Set the email:
-    $ git config --global user.email "himanshudubey481@gmail.com"
+    $ git config --global user.email "meghnasrivastava2000@gmail.com"
    ## Set the default editor:
     $ git config --global core.editor Vim
    ## Check the setting:
@@ -17,3 +17,10 @@
     $ git config --global alias.br branch
     $ git config --global alias.ci commit
     $ git config --global alias.st status
+    
+# Starting a project
+
+   ## git init
+    Create a local repository:
+   ## git clone 
+    Make a local copy of the server repository.
