@@ -99,3 +99,4 @@
 | `git diff [source branch] [target branch]` | Preview changes before merging |
 
 ![file](https://imgur.com/V5FDyfl.png)
+![file2](https://imgur.com/YHe4euu.png)
