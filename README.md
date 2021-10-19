@@ -99,4 +99,11 @@
 | `git diff [source branch] [target branch]` | Preview changes before merging |
 
 ![file](https://imgur.com/V5FDyfl.png)
+### Read the images carefully for details
 ![file2](https://imgur.com/YHe4euu.png)
+### Read the images carefully for details
+![file3](https://imgur.com/iQeO2Bz.png)
+### Read the images carefully for details
+![file4](https://imgur.com/UjQcnq7.png)
+### Shortcut to home directory
+![file5](https://imgur.com/it5NI7Q.png)
