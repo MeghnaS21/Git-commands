@@ -98,4 +98,4 @@
 | `git log --oneline` | View changes (briefly) |
 | `git diff [source branch] [target branch]` | Preview changes before merging |
 
-
+![file](https://imgur.com/V5FDyfl.png)
